@@ -63,7 +63,7 @@ To view installation and usage instructions specific to each branch build, be su
 var frechet = require( '@stdlib/random-frechet' );
 ```
 
-#### frechet( shape, alpha, s, m, \[, options] )
+#### frechet( shape, alpha, s, m\[, options] )
 
 Returns an [ndarray][@stdlib/ndarray/ctor] containing pseudorandom numbers drawn from a [Fréchet][@stdlib/random/base/frechet] distribution.
 

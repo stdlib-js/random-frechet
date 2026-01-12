@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`30ca17e`](https://github.com/stdlib-js/stdlib/commit/30ca17eb7931a0065e3ed1ef7fc4742316449106) - **docs:** remove extraneous comma in `random/frechet` function signature _(by Philipp Burckhardt)_
 -   [`73344ab`](https://github.com/stdlib-js/stdlib/commit/73344abe4ac57ef5a27e6879e4274882caf596d6) - **feat:** add `random/frechet` _(by Athan Reines)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
